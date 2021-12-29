@@ -1,0 +1,7 @@
+.productCard{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between;
+    width:'90%';
+    max-width: 450px;
+}
